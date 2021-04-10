@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  color: #353935;
+  font-family: 'Maven Pro', sans-serif;
+}
+
+.heading-1 {
+  color: #343434;
+}
+
+.img-size {
+  height: 100px
+}
+
+.columns {
+  column-count: 3;
+}
+
+.column {
+  float: left;
+  background-color: beige;
+  margin: 3px;
+  padding: 10px;
+}
+
+.left {
+  width: 30%;
+}
+
+.middle {
+  width: 30%;
+}
+
+.right {
+  width: 30%;
+}
+
+footer {
+  text-align: right;
+  padding: 50px;
+}
